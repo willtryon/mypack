@@ -13,4 +13,4 @@ minecraft = "26.1.2"
 neoforge = "26.1.2.65-beta"
 
 [options]
-url = "https://mcclientlatest.willtryon.com/pack.toml"
+pack-url = "https://mcclientlatest.willtryon.com/pack.toml"
