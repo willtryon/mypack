@@ -1,0 +1,101 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "7c258846d69d70699d01ece8be13df4bfa70da6da9059eb1c653ade05b3ed7dd"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "3164def5be60b7ee54e36eed916c036a705486fa467a062fa59b2e442e658ba1"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "943a9059c587effc5c6bc8f3cd3af11976f239a57356d472f676741c000fe024"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "422288d7872296aa4a34c430d76c9a216925473e2a04c2ccf1d317de50462975"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "7862ba2c9352353e96f7408b3ff0fd705ad7f7ef7a67a1f11d952bec8697d549"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "74cf8d8f97e7ab90dec263c2d4bcf8187703adda401ec95753cfbe2d5dbd2a1e"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b9ae5bc2d97691a481eed862dff33655b236d6117678a9489ed72a50f994d7fd"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "711e5b1653e51dee63555ffcce52688e2e5526ba6e1f3d2ade84421af0f31e1d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "83c9c92233e12cc2b70928c8465baa75d0b67343eafd77825160bf3301d2e79b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "7f58193287d17e1642a0b4c090e28cf719588341bba18706e221ae3ee936dc32"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "5a23a2fcf5ca8dbc77fc4fc1c1f42f443bf889e2d14d96cdc9704770f735cd60"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "1a81cf24017e281cfe8ebe5c99d2e218beaf30f410b16a380b7f80fc8a79ecd2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "514d7a59264c10617e7d3646e4baa1c072e173aefefefec564e1735d029fb242"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "279c5b62a01a864c5423ca747acbb2221d61c5b19c4f0b5018f99fc7f1458974"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "acbc87fddd4d09807e4407691f3bc2cd284c1620a60117749e5b7e71da42ef53"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "af0841572ce39b5c89d84527fc0da9936514837a01ba13fe5bd7e69394cc7e5f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "ac6cdc982a8a1f86a2d7f2facfd004ac2cd18703a4d227b8748539d8355e8a5c"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "0c96b5bd496fefece5503443a3c0801d751f644df0ec33854838cf48ac28138c"
+metafile = true

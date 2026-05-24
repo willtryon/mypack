@@ -1,0 +1,13 @@
+name = "pack1"
+author = "moistpony"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a582216c77a87a69316ab987dd02a734f6e0604b944b60bdcca5cab133a1f623"
+
+[versions]
+minecraft = "26.1.2"
+neoforge = "26.1.2.65-beta"
