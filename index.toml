@@ -41,6 +41,11 @@ hash = "7862ba2c9352353e96f7408b3ff0fd705ad7f7ef7a67a1f11d952bec8697d549"
 metafile = true
 
 [[files]]
+file = "mods/fwa.pw.toml"
+hash = "5359594944cf97a674a5096c1f73bb5369ec98ee7a3f80a76a827690081f5479"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "74cf8d8f97e7ab90dec263c2d4bcf8187703adda401ec95753cfbe2d5dbd2a1e"
 metafile = true
