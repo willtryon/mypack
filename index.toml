@@ -6,6 +6,16 @@ hash = "a4d2fe07ed42283b4dc910606912fb400b80b9ce8b33aea09ac67b7937e547a8"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "4ac6ada7e46cfff5e070975b5d05226c01868e7ddc81918b48b924ea0c904734"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "37aba04b4aed2af39f2adf7a1135d9c60703c53b28af86438c57c7b7436bff0a"
+metafile = true
+
+[[files]]
 file = "mods/better-pickaxe-trims.pw.toml"
 hash = "51a9a56aa7947bad29bb8bef02545ac576dc3828a3bbe41a2fc3130b193344c0"
 metafile = true
@@ -16,13 +26,28 @@ hash = "7c258846d69d70699d01ece8be13df4bfa70da6da9059eb1c653ade05b3ed7dd"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "3793519513eae2bba89676f5cb2f048ff71655cf26d9e617837ca427de1a286f"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "3164def5be60b7ee54e36eed916c036a705486fa467a062fa59b2e442e658ba1"
 metafile = true
 
 [[files]]
+file = "mods/controllable.pw.toml"
+hash = "12f0c66a6eae9aac2ea5b1329b8dc69c3651d10ce9b5d0804bbde3d1fa9a429a"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "943a9059c587effc5c6bc8f3cd3af11976f239a57356d472f676741c000fe024"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "352d90d47ad7fd6718b06a03b7ec47c828e62540288b17b094ef384696ecaae5"
 metafile = true
 
 [[files]]
@@ -46,8 +71,28 @@ hash = "5359594944cf97a674a5096c1f73bb5369ec98ee7a3f80a76a827690081f5479"
 metafile = true
 
 [[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "0b241eaf4020f55632c9e14f271f61517b89f8e49e15c9067e9a4484c8405511"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "74cf8d8f97e7ab90dec263c2d4bcf8187703adda401ec95753cfbe2d5dbd2a1e"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "34daeaa4c4d999d49a9654467b99f7d2dea43810450c2146f4e91bd20eeb2968"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "372fd70a6144030642fe015462170259704ae3f197ae4d2a60e7053becb59a86"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "0e5168a4f2934ca0aaaeab725b5b0f1dd3207e9f606eedf30c564888bd330377"
 metafile = true
 
 [[files]]
@@ -76,6 +121,11 @@ hash = "7f58193287d17e1642a0b4c090e28cf719588341bba18706e221ae3ee936dc32"
 metafile = true
 
 [[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "406d47066044a04d1fd2ff46419982b8065986749e13f5c60bdc4543789cbcd1"
+metafile = true
+
+[[files]]
 file = "mods/macaws-paintings.pw.toml"
 hash = "5a23a2fcf5ca8dbc77fc4fc1c1f42f443bf889e2d14d96cdc9704770f735cd60"
 metafile = true
@@ -96,8 +146,28 @@ hash = "279c5b62a01a864c5423ca747acbb2221d61c5b19c4f0b5018f99fc7f1458974"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "92d6bec714f1a9595c6dc4b55e60e6f3b31bdfb13f7b008a6a64da996073b3f6"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "acbc87fddd4d09807e4407691f3bc2cd284c1620a60117749e5b7e71da42ef53"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "411f0d19e0256aa0d0ae5405501c5e279f374e3e782b96fcbb7f9e7127370829"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "8c86acd45758ef0d53ee917ec1f05816b201f4a3dc71e12665dde25773628b55"
+metafile = true
+
+[[files]]
+file = "mods/reliquary-reincarnations.pw.toml"
+hash = "511bc82be25b29ff76eefd1407203e8b0df0c8fca1d0e61c60da0a5d865b8b78"
 metafile = true
 
 [[files]]
@@ -116,6 +186,16 @@ hash = "ac6cdc982a8a1f86a2d7f2facfd004ac2cd18703a4d227b8748539d8355e8a5c"
 metafile = true
 
 [[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "f6740be1a2a9af2aa2fae5698642ffcf1c2cd15e0948c95ca72fa80f22ed3a87"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "0c96b5bd496fefece5503443a3c0801d751f644df0ec33854838cf48ac28138c"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "4889e95669d72b9bf43159c4866cb5124eed425848b939fe94e82f2507a32e00"
 metafile = true
