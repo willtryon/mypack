@@ -46,13 +46,13 @@ hash = "943a9059c587effc5c6bc8f3cd3af11976f239a57356d472f676741c000fe024"
 metafile = true
 
 [[files]]
-file = "mods/croptopia.pw.toml"
-hash = "352d90d47ad7fd6718b06a03b7ec47c828e62540288b17b094ef384696ecaae5"
+file = "mods/cupboard.pw.toml"
+hash = "422288d7872296aa4a34c430d76c9a216925473e2a04c2ccf1d317de50462975"
 metafile = true
 
 [[files]]
-file = "mods/cupboard.pw.toml"
-hash = "422288d7872296aa4a34c430d76c9a216925473e2a04c2ccf1d317de50462975"
+file = "mods/curios.pw.toml"
+hash = "67a5070c86f930c53411b3486de72b8ef40c15098d14a90827790a4f822be350"
 metafile = true
 
 [[files]]
@@ -78,16 +78,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "74cf8d8f97e7ab90dec263c2d4bcf8187703adda401ec95753cfbe2d5dbd2a1e"
-metafile = true
-
-[[files]]
-file = "mods/just-zoom.pw.toml"
-hash = "34daeaa4c4d999d49a9654467b99f7d2dea43810450c2146f4e91bd20eeb2968"
-metafile = true
-
-[[files]]
-file = "mods/konkrete.pw.toml"
-hash = "372fd70a6144030642fe015462170259704ae3f197ae4d2a60e7053becb59a86"
 metafile = true
 
 [[files]]
