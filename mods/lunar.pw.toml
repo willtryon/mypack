@@ -1,0 +1,13 @@
+name = "Lunar"
+filename = "Lunar-neoforge-26.1-0.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "964c15b5dbe806431ed5e26070f26d3bcba982e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7841823
+project-id = 602312

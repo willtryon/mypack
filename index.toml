@@ -11,13 +11,18 @@ hash = "4ac6ada7e46cfff5e070975b5d05226c01868e7ddc81918b48b924ea0c904734"
 metafile = true
 
 [[files]]
+file = "mods/backpacked.pw.toml"
+hash = "f5cdce3e28a5d5050a3f74d71fef2937a37c4de49edaf1f95dac6c85f6d31f70"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "37aba04b4aed2af39f2adf7a1135d9c60703c53b28af86438c57c7b7436bff0a"
 metafile = true
 
 [[files]]
-file = "mods/better-pickaxe-trims.pw.toml"
-hash = "51a9a56aa7947bad29bb8bef02545ac576dc3828a3bbe41a2fc3130b193344c0"
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "064697df04497efdcf365c237fe439917b5a5e44e10fbf3bf354053c1504b2ea"
 metafile = true
 
 [[files]]
@@ -71,6 +76,11 @@ hash = "5359594944cf97a674a5096c1f73bb5369ec98ee7a3f80a76a827690081f5479"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "03189bc351a9f8624ee2577091d357af4ded2f80edaef14ccf04e171b6a6b596"
+metafile = true
+
+[[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "0b241eaf4020f55632c9e14f271f61517b89f8e49e15c9067e9a4484c8405511"
 metafile = true
@@ -93,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/lunar.pw.toml"
 hash = "1ffe6dad687fe6520da58137744c4dd0064b0dcc6ca8674624fc2344f81ae5c5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "315bd2ea51def6c2ce62f7e103f65b5f4426fe20e4026eede1ac5f1ba947dc89"
 metafile = true
 
 [[files]]
@@ -161,6 +176,11 @@ hash = "511bc82be25b29ff76eefd1407203e8b0df0c8fca1d0e61c60da0a5d865b8b78"
 metafile = true
 
 [[files]]
+file = "mods/shogi.pw.toml"
+hash = "44f63af44ae9583208eef5f4569410e2fe67a718709de5e27a0374b3dc1ea029"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "af0841572ce39b5c89d84527fc0da9936514837a01ba13fe5bd7e69394cc7e5f"
 metafile = true
@@ -188,4 +208,19 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "4889e95669d72b9bf43159c4866cb5124eed425848b939fe94e82f2507a32e00"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "7f07f9a8194cb349e866ed6bdfeb0fc1e0d8a5b19952b009f98101ceb57f4dc3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-world-map-waystones-compatibility-forge.pw.toml"
+hash = "97760d48411b90a31042d6ace18d0bc086038c058d53c980a6a76f944d847abf"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c32cbefc51c660c55b81aeaee8313c958cfc8e3e2e3b9499ce2355dab9433f8e"
 metafile = true

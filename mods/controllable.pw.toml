@@ -1,0 +1,13 @@
+name = "Controllable"
+filename = "controllable-neoforge-26.1.2-0.26.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8df4d2f8675be1a0e54ff4cd175629c87ace35f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7943194
+project-id = 317269
