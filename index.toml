@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "3793519513eae2bba89676f5cb2f048ff71655cf26d9e617837ca427de1a286f"
+hash = "365a23e97ceef94800f31c7b5685e1004803f35e528c3c2a2550d27a9d7466ef"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "5359594944cf97a674a5096c1f73bb5369ec98ee7a3f80a76a827690081f5479"
+hash = "220d70b299504c343bd4f1c4074195087c7c4bc467d64568f93bfca2d9d86ba6"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b9ae5bc2d97691a481eed862dff33655b236d6117678a9489ed72a50f994d7fd"
+hash = "673f07d87a20d78ccb944a298b4c7ae9b5b74e10281808f01d73abfbb1087b52"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "af0841572ce39b5c89d84527fc0da9936514837a01ba13fe5bd7e69394cc7e5f"
+hash = "d056afb1c8b0847bac23d7902835abf1ccc32f78e4cd4f8f9b7cfa849280f324"
 metafile = true
 
 [[files]]
