@@ -1,0 +1,13 @@
+name = "Xaero's Minimap & World Map - Waystones Compatibility"
+filename = "xaeros_waystones_compatibility-NeoForge-26.1.2-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7mLhyqIY/versions/Fe7JdnPy/xaeros_waystones_compatibility-NeoForge-26.1.2-2.1.0.jar"
+hash-format = "sha512"
+hash = "9b8e37eb1b033a9d5a64e89996209ba98404ee2d3c7103926861e1f80f2b11bc15e404966ff7aad97b2868839c879dcd6ad827d7b6b59c81a0e0e895ce786208"
+
+[update]
+[update.modrinth]
+mod-id = "7mLhyqIY"
+version = "Fe7JdnPy"
