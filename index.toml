@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "37aba04b4aed2af39f2adf7a1135d9c60703c53b28af86438c57c7b7436bff0a"
+hash = "61b870e8ed73fa395a44b355e19419f24ea146e01005613ad59b83264f3e02b6"
 metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "064697df04497efdcf365c237fe439917b5a5e44e10fbf3bf354053c1504b2ea"
+hash = "254785de8171aef1ad0bb869fa658ccc129f16a746f9ef2bd85c2f9f8dd95ed6"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "365a23e97ceef94800f31c7b5685e1004803f35e528c3c2a2550d27a9d7466ef"
+hash = "b2a715f30c89ce0f38e81de2a66e1887b1c0e21d10259116f3d56ae33b3ee703"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "943a9059c587effc5c6bc8f3cd3af11976f239a57356d472f676741c000fe024"
+hash = "cf038801171962d4dd045f02d95f7d06fdea61a34e46e2fae0d40faf4ba1326c"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "220d70b299504c343bd4f1c4074195087c7c4bc467d64568f93bfca2d9d86ba6"
+hash = "62f1fdf9a6fc13efd2a48583a81e99f0495bc2143768d67bb8a49d301d05a448"
 metafile = true
 
 [[files]]
@@ -87,17 +87,17 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "74cf8d8f97e7ab90dec263c2d4bcf8187703adda401ec95753cfbe2d5dbd2a1e"
+hash = "2e1fa4d0e1651bd4a25b7afd5d9b58e6800015c4273a1134969cbae14a739c67"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "0e5168a4f2934ca0aaaeab725b5b0f1dd3207e9f606eedf30c564888bd330377"
+hash = "4af50837d039d8b8a8857674033cbc87e90c441de2c296b2bd80a70ee04d3c96"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "673f07d87a20d78ccb944a298b4c7ae9b5b74e10281808f01d73abfbb1087b52"
+hash = "2f1532544e42fc6eb278c6c251d8495c1548c821c978cafa4fa2e4129e826567"
 metafile = true
 
 [[files]]
@@ -171,8 +171,13 @@ hash = "8c86acd45758ef0d53ee917ec1f05816b201f4a3dc71e12665dde25773628b55"
 metafile = true
 
 [[files]]
+file = "mods/proxy-compatible-forge.pw.toml"
+hash = "c80a96963f867c8c01c8e72df13abc9e97bc9ae99575b94fd95605875c60b88b"
+metafile = true
+
+[[files]]
 file = "mods/reliquary-reincarnations.pw.toml"
-hash = "511bc82be25b29ff76eefd1407203e8b0df0c8fca1d0e61c60da0a5d865b8b78"
+hash = "90f961b26b317659c2d104e27e14e48cee5694c9551334e10dc26b1757625880"
 metafile = true
 
 [[files]]
@@ -182,17 +187,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d056afb1c8b0847bac23d7902835abf1ccc32f78e4cd4f8f9b7cfa849280f324"
+hash = "1a773365b32943c5b58517f70bebe3aa5c2e9bc80d5e2c048adf109349b68f34"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
+hash = "f6d5d852b916e48c432ac8abd7e2721b5ffb0db20bfe6d7eeb7d4f137fe607b4"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "ac6cdc982a8a1f86a2d7f2facfd004ac2cd18703a4d227b8748539d8355e8a5c"
+hash = "cdbf906d839d77998f8221953276a0fa8edfaaf7f1232d45ade90461df5d9c8f"
 metafile = true
 
 [[files]]
@@ -217,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "7f07f9a8194cb349e866ed6bdfeb0fc1e0d8a5b19952b009f98101ceb57f4dc3"
+hash = "0b1bb12ba1ef245f2e1ff3f31aaa18743e8dfd96554c3c3f415a833908c9c220"
 metafile = true
 
 [[files]]
@@ -227,5 +232,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c32cbefc51c660c55b81aeaee8313c958cfc8e3e2e3b9499ce2355dab9433f8e"
+hash = "6670d7ba079188f5724ed6ad663f91e30058899dea806d48551e68230ea3e081"
 metafile = true

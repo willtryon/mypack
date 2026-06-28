@@ -1,13 +1,13 @@
 name = "spark"
-filename = "spark-1.10.172-neoforge.jar"
+filename = "spark-1.10.173-neoforge.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/l6YH9Als/versions/5RiG26uL/spark-1.10.172-neoforge.jar"
+url = "https://cdn.modrinth.com/data/l6YH9Als/versions/DdMsOH3O/spark-1.10.173-neoforge.jar"
 hash-format = "sha512"
-hash = "e4042fd1b4b3b0cc4810210a4cc3c832eec5124828f11f38c7d2ee92fd329285b72c0fa56d64a94e01a58a26ee19d0037977247d7989382a9c059780ce057725"
+hash = "f40b72761c2137debe90c836a32918e4e3aa2629db4b50e9b78bdcacdbe6e484682ba7e11535bee7fcf581abe944948dde48dda37ee45d3966a5d7e450191173"
 
 [update]
 [update.modrinth]
 mod-id = "l6YH9Als"
-version = "5RiG26uL"
+version = "DdMsOH3O"
