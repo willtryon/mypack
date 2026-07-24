@@ -6,6 +6,26 @@ hash = "a4d2fe07ed42283b4dc910606912fb400b80b9ce8b33aea09ac67b7937e547a8"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "cca9daebfa702d3555f374d4f82b64d16e0404c79101e14d558f402d2a12273a"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "c34fc6293e8c8b07dd41f39e7090f55318cb325856e9011761c2b25dd8ed370d"
+metafile = true
+
+[[files]]
+file = "mods/apothic-enchanting.pw.toml"
+hash = "498a71a5477d682f7c51cd001c60b3c93fb382516cf45864e1c0d6fd8dd5c376"
+metafile = true
+
+[[files]]
+file = "mods/apothic-spawners.pw.toml"
+hash = "d59f0f3cf8f9ed6edfb3b176cfa2743ce44f6cd3f871599276ab9134df394dce"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "4ac6ada7e46cfff5e070975b5d05226c01868e7ddc81918b48b924ea0c904734"
 metafile = true
@@ -83,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "0b241eaf4020f55632c9e14f271f61517b89f8e49e15c9067e9a4484c8405511"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "eb8caa143023cd8e8ff9cc11510a6d84291f7899446231b57d1dc80f73cdd365"
 metafile = true
 
 [[files]]
@@ -171,8 +196,18 @@ hash = "411f0d19e0256aa0d0ae5405501c5e279f374e3e782b96fcbb7f9e7127370829"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "58e7bb2c9c496469b36bf02b5a02d34f62b9ef57bb7a613eac1d06bc2e70a4bd"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "8c86acd45758ef0d53ee917ec1f05816b201f4a3dc71e12665dde25773628b55"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "1b874d771761b820a4625b7ba687226592e1f3483a8c219708d585ad7fe7b73d"
 metafile = true
 
 [[files]]

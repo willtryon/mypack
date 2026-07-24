@@ -6,11 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2d642b1ddcd22e8dff24376233db2a07e4b8c9dcdd9ac85f6ca702e5d792f5a7"
+hash = "6765ca9d48f80b8162700caf34485bc49fa3f9313795b5b0436a6a356b65f9d1"
 
 [versions]
 minecraft = "26.1.2"
-neoforge = "26.1.2.65-beta"
+neoforge = "26.1.2.82"
 
 [options]
 pack-url = "https://db.willtryon.com/pack.toml"
