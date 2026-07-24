@@ -1,0 +1,13 @@
+name = "Mutant Monsters"
+filename = "MutantMonsters-v26.1.2-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5968fbed55f58daa34422db677effa461f919d0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8451368
+project-id = 852665
