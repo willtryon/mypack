@@ -1,13 +1,13 @@
 name = "Reliquary Reincarnations"
-filename = "reliquary-26.1.2-2.0.83.1467.jar"
+filename = "reliquary-26.1.2-2.0.90.1536.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fQO83PId/versions/ms1jEXaW/reliquary-26.1.2-2.0.83.1467.jar"
+url = "https://cdn.modrinth.com/data/fQO83PId/versions/Tlzfqw8R/reliquary-26.1.2-2.0.90.1536.jar"
 hash-format = "sha512"
-hash = "78d85f0c7b527fbf598d898eb6778e622b13372f7a41d260f371ee932c12e0fe542cb2e9af1ddce73b471dddd0e2cdd8737c0f7df869a164ac141df690e5283b"
+hash = "d5a1cb20bffcc6cf23ed46342e435cc3f7549955bd00951210f9b7e57a71a81126f1f1c49066b84be5d56848cabe9ff099da32c7ada49b43254c388a7591f907"
 
 [update]
 [update.modrinth]
 mod-id = "fQO83PId"
-version = "ms1jEXaW"
+version = "Tlzfqw8R"
